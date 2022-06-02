@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(198, 198, 241);
+    height: 100%;
+}
+header {
+    background-size: cover;    
+}
+a {
+   color: white;
+   background-color: rgb(32, 32, 139);
+   padding: 10px;
+   text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+article {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid grey;
+    margin: 10px;
+}
+main {
+    display: flex;
+   
+}
