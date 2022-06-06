@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(198, 198, 241);
+    height: 100%;
+}
+form {
+    flex-direction: column-gap;
+    background-color: white;
+    float: right;
+    width: 600px;
+    padding: 10px;
+}
+
+button {
+    background-color: white;
+    margin: none;
+    padding: none;
+}
+
+.new {
+    background-color: blue;
+    margin: -1px;
+    padding: -1px;
+}
+
+footer {
+    position: fixed;
+    left: -2;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
